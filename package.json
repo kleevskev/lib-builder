@@ -1,5 +1,5 @@
 {
-  "name": "lib-builder",
+  "name": "lib-bundle",
   "version": "0.0.1",
   "description": "A nodejs program to build umd.",
   "main": "./src/index.js",
@@ -19,7 +19,8 @@
   "keywords": [
     "lib",
     "builder",
-    "lib-builder"
+    "lib-builder",
+    "bundle"
   ],
   "author": "kleevs",
   "license": "MIT"
