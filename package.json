@@ -2,8 +2,8 @@
   "name": "lib-bundle",
   "version": "0.0.1",
   "description": "A nodejs program to build umd.",
-  "main": "./src/index.js",
-  "typings": "./src/index.d.ts",
+  "main": "./lib/libuilder.js",
+  "typings": "./lib/libuilder.d.ts",
   "scripts": {
     "build": "node_modules/.bin/tsc"
   },
@@ -15,6 +15,10 @@
   "repository": {
     "type": "git",
     "url": "(git@github.com:kleevs/lib-builder.git)"
+  },
+  "bin": {
+    "tsc": "./.bin/libuilder",
+    "tsserver": "./.bin/libuilder"
   },
   "keywords": [
     "lib",
