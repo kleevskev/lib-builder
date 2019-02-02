@@ -1,2 +1,2 @@
-import { Compiler } from 'compiler';
+import { Compiler } from './compiler';
 new Compiler().apply();

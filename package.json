@@ -17,8 +17,7 @@
     "url": "(git@github.com:kleevs/lib-builder.git)"
   },
   "bin": {
-    "tsc": "./.bin/libuilder",
-    "tsserver": "./.bin/libuilder"
+    "libuilder": "./bin/libuilder"
   },
   "keywords": [
     "lib",
