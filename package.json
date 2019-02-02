@@ -1,0 +1,26 @@
+{
+  "name": "lib-builder",
+  "version": "0.0.1",
+  "description": "A nodejs program to build umd.",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts",
+  "scripts": {
+    "build": "node_modules/.bin/tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^7.0.14",
+    "typescript": "^3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git@github.com:kleevs/lib-builder.git)"
+  },
+  "keywords": [
+    "lib",
+    "builder",
+    "lib-builder"
+  ],
+  "author": "kleevs",
+  "license": "MIT"
+}
