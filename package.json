@@ -1,5 +1,5 @@
 {
-  "name": "lib-bundle",
+  "name": "lib-builder",
   "version": "0.0.1",
   "description": "A nodejs program to build umd.",
   "main": "./lib/libuilder.js",
