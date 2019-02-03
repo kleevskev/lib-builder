@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "(git@github.com:kleevs/lib-builder.git)"
+    "url": "(git@github.com:kleevskev/lib-builder.git)"
   },
   "bin": {
     "libuilder": "./bin/libuilder"
@@ -25,6 +25,6 @@
     "lib-builder",
     "bundle"
   ],
-  "author": "kleevs",
+  "author": "kleevskev",
   "license": "MIT"
 }
